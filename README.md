@@ -48,7 +48,8 @@ These are some of the projects that I have worked on, showcasing my skills in ma
 ![trophy](https://github-profile-trophy.vercel.app/?username=MeikoFudo&theme=radical)
 
 ## 🌐 Connect with Me:
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ericka42)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ericka42)  
+[![Email for contact](https://img.shields.io/badge/Email%20for%20contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:igityan584@gmail.com)
 
 ## 📊 Kaggle Stats:
 - **Kaggle Expert**: Achieved expert status in 3 categories on Kaggle!
