@@ -27,12 +27,13 @@ These are some of the projects that I have worked on, showcasing my skills in ma
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| **Final Project** | ![Computer Vision](https://img.shields.io/badge/-Machine%20Learning-red) A comprehensive final project incorporating various machine learning models and techniques for solving a complex problem. [View on GitHub](https://github.com/MeikoFudo/final-project) |
-| **VK-Techno-Test** | ![ML](https://img.shields.io/badge/-Machine%20Learning-red) A machine learning test project designed for VK Techno Test with a focus on data preprocessing and model evaluation. [View on GitHub](https://github.com/MeikoFudo/VK-Techno-Test) |
+| **Fire Detection for DLS** | ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue) A deep learning project focused on detecting fires in images using advanced computer vision techniques. [View on GitHub](https://github.com/MeikoFudo/final-project) |
+| **VK-Techno-Test** | ![Time Series](https://img.shields.io/badge/-Machine%20Learning-red) A time series classification project designed for VK Techno Test, focusing on data preprocessing and model evaluation. [View on GitHub](https://github.com/MeikoFudo/VK-Techno-Test) |
 | **Brain Tumor Segmentation** | ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue) A deep learning project focused on segmenting brain tumor images using convolutional neural networks (CNNs). [View on GitHub](https://github.com/MeikoFudo/Brain-Tumor-Segmentation) |
 | **Sentiment Analysis with Hotel Reviews** | ![NLP](https://img.shields.io/badge/-NLP-blue) Performing sentiment analysis on hotel reviews to extract customer sentiment using natural language processing (NLP) techniques. [View on GitHub](https://github.com/MeikoFudo/Sentiment-analysis-with-hotel-reviews) |
 | **Natural Language Processing with Disaster Tweets** | ![NLP](https://img.shields.io/badge/-NLP-blue) Analyzing disaster-related tweets to classify tweets based on disaster relevance using NLP models. [View on GitHub](https://github.com/MeikoFudo/Natural-Language-Processing-with-Disaster-Tweets) |
-| **Forecasting the Number of Applicants** | ![Time Series](https://img.shields.io/badge/-Time%20Series-orange) Time series analysis for forecasting the number of job applicants using historical data and statistical models. [View on GitHub](https://github.com/MeikoFudo/Forecasting-the-number-of-applicants) |
+| **Forecasting the Number of Applicants** | ![Machine Learning](https://img.shields.io/badge/-Time%20Series-orange) Time series analysis for forecasting the number of job applicants using historical data and statistical models. [View on GitHub](https://github.com/MeikoFudo/Forecasting-the-number-of-applicants) |
+
 
 
 
