@@ -39,8 +39,8 @@ These are some of the projects that I have worked on, showcasing my skills in ma
 
 ## 🔥 My Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeikoFudo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anastasia's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeikoFudo&theme=radical&hide_border=true" alt="Anastasia's GitHub streak stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeikoFudo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeikoFudo&theme=radical&hide_border=true" alt="" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeikoFudo&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
 </p>
 
